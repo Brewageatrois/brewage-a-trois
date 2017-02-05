@@ -1,4 +1,4 @@
-/* Main styles*/
+  /* Main styles*/
 /* Colours */
 /* Variables */
 html {
@@ -87,8 +87,7 @@ a.name,
 }
 .socials-wrapper {
   position: fixed;
-  top: 340%;
-  background-color: blue}
+  top: 90vh;}
 
  .socials {
   display: inline-block;
@@ -111,7 +110,7 @@ a.name,
     font-size: 7rem;
     line-height: 1em;
     font-weight: 800;
-    padding-top: 10vh;
+    padding-top: 5vh;
   }
 }
 .wrapper-contact {
