@@ -21,6 +21,13 @@ body.hidden {
   -moz-transform: translateY(8%);
   transform: translateY(8%);
 }
+
+h1, h2, h3, h4, h5, h6 { /*reset for mobile browsers */
+font-weight: normal;
+
+}
+
+
 body {
   margin: 0;
   font-family: 'Source Code Pro';
@@ -46,7 +53,8 @@ h1 {
   font-size: 4rem;
   line-height: 1em;
   font-weight: 800;
-  padding-top: 26vh;
+  padding-top: 15vh;
+  letter-spacing: 0.1px;
 }
 address {
   font-style: normal;
@@ -87,7 +95,7 @@ a.name,
 }
 .socials-wrapper {
   position: fixed;
-  top: 90vh;}
+  top: 80vh;}
 
  .socials {
   display: inline-block;
