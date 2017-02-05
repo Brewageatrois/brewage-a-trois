@@ -61,16 +61,18 @@ $(function(){
 	setTimeout(function() {
 		$(".trio").typed({
 			strings: [
-				'<strike>MICRO</strike><br><strike>NANO</strike><br>PICO',
-				'BREWING<br>TESTING<br>BOILING',
-				'MALT<br>HOPS<br>YEAST',
-				'MASH<br>SPARGE<br>BOIL',
+				'BEN<br>COLIN<br>ROB',
 				'<strike>SOUTH</strike><br>EAST<br>LONDON',
+				'<strike>MICRO</strike><br><strike>NANO</strike><br>PICO',
+				'BREWING<br>WICKED<br>BEERS',
+				'SPARGING<br>LIKE<br>HELL',
+				'KEEPING<br>THINGS<br>CHILL',
 				'ONE<br>SMALL<br>STEP',
 				'ONE<br>GIANT<br>LEAP',
-				'CALL<br>YOUR<br>MOTHER',
+				'YOUR<br>MOTHERS<br>RUIN',
 				'LAGER<br>LAGER<br>LAGER',
 				'GREAT<br>WITH<br>CRISPS', 
+				'CALL<br>YOUR<br>MOTHER',
 				],
 			typeSpeed: 0,
 			startDelay: 0,
