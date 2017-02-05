@@ -64,7 +64,7 @@ $(function(){
 				'BEN<br>COLIN<br>ROB',
 				'<strike>SOUTH</strike><br>EAST<br>LONDON',
 				'<strike>MICRO</strike><br><strike>NANO</strike><br>PICO',
-				'BREWING<br>WICKED<br>BEERS',
+				'BREWING<br>KICKASS<br>BEERS',
 				'SPARGING<br>LIKE<br>HELL',
 				'KEEPING<br>THINGS<br>CHILL',
 				'ONE<br>SMALL<br>STEP',
