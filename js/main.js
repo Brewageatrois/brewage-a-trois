@@ -62,6 +62,7 @@ $(function(){
 		$(".trio").typed({
 			strings: [
 				'FANCY<br>A<br>PINT?',
+				'A<br>SWIFT<br>HALF?',
 				'<strike>SOUTH</strike><br>EAST<br>LONDON',
 				'<strike>MICRO</strike><br><strike>NANO</strike><br>PICO',
 				'BEN<br>COLIN<br>ROB',
@@ -72,7 +73,7 @@ $(function(){
 				'ONE<br>GIANT<br>LEAP',
 				'YOUR<br>MOTHERS<br>RUIN',
 				'LAGER<br>LAGER<br>LAGER',
-				'GREAT<br>WITH<br>CRISPS', 
+				'(GREAT<br>WITH<br>CRISPS)', 
 				'CALL<br>YOUR<br>MOTHER',
 				],
 			typeSpeed: 0,
