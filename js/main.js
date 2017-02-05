@@ -61,9 +61,10 @@ $(function(){
 	setTimeout(function() {
 		$(".trio").typed({
 			strings: [
-				'BEN<br>COLIN<br>ROB',
+				'FANCY<br>A<br>PINT?',
 				'<strike>SOUTH</strike><br>EAST<br>LONDON',
 				'<strike>MICRO</strike><br><strike>NANO</strike><br>PICO',
+				'BEN<br>COLIN<br>ROB',
 				'BREWING<br>KICKASS<br>BEERS',
 				'SPARGING<br>LIKE<br>HELL',
 				'KEEPING<br>THINGS<br>CHILL',
