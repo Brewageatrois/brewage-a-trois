@@ -75,7 +75,6 @@ $(function(){
 				'YOUR<br>MOTHER&rsquo;S<br>RUIN',
 				'LAGER<br>LAGER<br>LAGER',
 				'(GREAT<br>WITH<br>CRISPS)', 
-				'CALL<br>YOUR<br>MOTHER',
 				],
 			typeSpeed: 0,
 			startDelay: 0,
